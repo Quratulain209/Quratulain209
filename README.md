@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quratulain</h1>
-<h3 align="center">Frontend developer with a love for learning and creativity</h3>
+<h3 align="center">Web Developer and design Enthusiast</h3>
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
